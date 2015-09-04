@@ -17,3 +17,6 @@
 * おやひなや
 * ClassicBarRELUM
 * BELGO
+
+### 荻窪
+* 荻窪ビール工房
