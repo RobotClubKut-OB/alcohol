@@ -17,6 +17,8 @@
 * おやひなや
 * ClassicBarRELUM
 * BELGO
+* クラフトヘッズ
+* THE ALDGATE British Pub
 
 ### 荻窪
 * 荻窪ビール工房
